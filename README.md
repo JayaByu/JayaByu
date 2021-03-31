@@ -1,3 +1,4 @@
+
 ###Holla, Minna-san 
 
 
@@ -11,6 +12,5 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 ### 📈 Github Stats
-![JayaByu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayaByu&show_icons=true&theme=nord)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaByu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=3E4651" />
+![JayaByu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayaByu&show_icons=true&theme=nord) <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaByu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=3E4651" />
 
