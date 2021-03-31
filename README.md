@@ -1,5 +1,6 @@
+[![Header](https://github.com/JayaByu/JayaByu/blob/main/81387548_p0_master1200.jpg)
 
-###Holla, Minna-san 
+### Holla, Minna-san <img src="https://github.com/JayaByu/JayaByu/blob/main/1617175551720.png" width="30px">
 
 
 ### 🛠️ Technologies & Tools
@@ -12,5 +13,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 ### 📈 Github Stats
-![JayaByu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayaByu&show_icons=true&theme=nord) <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaByu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=3E4651" />
+<a href+"https://github.com/JayaByu">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayaByu&show_icons=true&theme=nord"/>
+</a>
+<a href="https://github.com/JayaByu">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaByu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=3E4651" />
+</a>
 
