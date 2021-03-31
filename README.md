@@ -6,7 +6,7 @@
 Apart from coding, I also maintain a blog - you can find my articles on my website at https://tegalsec.org
 ### 📈 Github Stats
 <a href="https://github.com/JayaByu">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayaByu&show_icons=true&theme=nord"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayaByu&count_private=true&include_all_commits=true&theme=radical"/>
 </a>
 <a href="https://github.com/JayaByu">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaByu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=3E4651" />
