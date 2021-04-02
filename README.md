@@ -1,4 +1,4 @@
-<img src="https://github.com/JayaByu/JayaByu/blob/main/86514767-12%E6%9C%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9.gif" wdith="2000%" height="2000%">
+<img src="https://github.com/JayaByu/JayaByu/blob/main/86514767-12%E6%9C%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9.gif" wdith="200000%" height="200000%">
 
 ### Holla, Minna-san <img src="https://github.com/JayaByu/JayaByu/blob/main/1617175551720.png" width="50px">
 ### 🛠️ Technologies & Tools
