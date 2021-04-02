@@ -1,4 +1,4 @@
-[](https://github.com/JayaByu/JayaByu/blob/main/81387548_p0_master1200.jpg)
+[![Header](https://github.com/LoliC0d3/LoliC0d3/blob/main/rimuru.png "Header")](https://tegalsec.org)
 
 ### Holla, Minna-san <img src="https://github.com/JayaByu/JayaByu/blob/main/1617175551720.png" width="50px">
 ### 🛠️ Technologies & Tools
