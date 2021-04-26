@@ -1,6 +1,6 @@
 <img algin="center" src="https://github.com/JayaByu/JayaByu/blob/main/86514767-12%E6%9C%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9.gif" width="5950px" height="550">
 
-### Yokoso, Minna-san <img src="https://github.com/JayaByu/JayaByu/blob/main/kawai.gif" width="50px">
+### Yokoso, Minna-san <img src="https://github.com/JayaByu/JayaByu/blob/main/kawai.gif" width="30px">
 ### 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=CF000F) ![](https://img.shields.io/badge/Kali-Linux-informational?style=flat&logo=Kali-linux&logoColor=white&color=2C82C9) ![](https://img.shields.io/badge/Arch-Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=2C82C9) ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=5659C9)  ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=8870FF)
 ### 📝 Blog & Writting
