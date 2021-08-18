@@ -12,9 +12,7 @@
 Apart from coding, I also maintain a blog - you can find my articles on my website at https://tegalsec.org
 ### 📈 Github Stats
 <a href="https://github.com/JayaByu">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayaByu&count_private=true&include_all_commits=true&theme=radical"/>
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayaByu&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true"/>
 <a href="https://github.com/JayaByu">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaByu&layout=compact&show_icons=true&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaByu&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)" />
 </a>
-
