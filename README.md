@@ -7,7 +7,7 @@
 #
 
 ### 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=CF000F) ![](https://img.shields.io/badge/Kali-Linux-informational?style=flat&logo=Kali-linux&logoColor=white&color=2C82C9) ![](https://img.shields.io/badge/Arch-Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=2C82C9) ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=5659C9)  ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=8870FF)
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B) ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ### 📝 Blog & Writting
 Apart from coding, I also maintain a blog - you can find my articles on my website at https://tegalsec.org
 ### 📈 Github Stats
