@@ -1,4 +1,4 @@
-<img algin="center" src="https://github.com/JayaByu/JayaByu/blob/main/sky2_by_wlop_dehzm89-fullview.jpg" height="444vh" width="10000vw">
+<img algin="center" src="https://github.com/JayaByu/JayaByu/blob/main/86514767-12%E6%9C%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9.gif" height="444vh" width="10000vw">
 
 # Yokoso, Minna-san <img src="https://github.com/JayaByu/JayaByu/blob/main/kawai.gif" width="30px">
 
