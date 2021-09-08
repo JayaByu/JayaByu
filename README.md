@@ -1,4 +1,4 @@
-<img algin="center" src="https://github.com/JayaByu/JayaByu/blob/main/deojm62-32d8b270-a8cf-4de2-8ce4-74935d584a46.jpg" >
+<img algin="center" src="https://github.com/JayaByu/JayaByu/blob/main/aeolian3_by_wlop_dbztbo1-fullview.jpg" >
 
 # Yokoso, Minna-san <img src="https://github.com/JayaByu/JayaByu/blob/main/kawai.gif" width="30px">
 
