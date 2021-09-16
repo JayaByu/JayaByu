@@ -9,7 +9,7 @@
 ### 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
 ### 📝 Blog & Writting
-Apart from coding, I also maintain a blog - you can find my articles on my website at https://tegalsec.org
+Apart from coding, I also maintain a blog - you can find my articles on my website at https://blog.tegalsec.org/
 ### 📈 Github Stats
 <a href="https://github.com/JayaByu">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayaByu&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true"/>
