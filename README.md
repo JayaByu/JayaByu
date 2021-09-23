@@ -34,9 +34,7 @@
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white">
 </details>
-</div>
-
-<details>
+   <details>
    <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
   <br/>
 
@@ -61,6 +59,7 @@ bXBqlaU=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
+</div>
 
 <div align="center">
 <a href="https://github.com/JayaByu">
