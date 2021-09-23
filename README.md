@@ -1,4 +1,6 @@
-<img src="https://github.com/JayaByu/JayaByu/blob/main/86514767-12%E6%9C%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9.gif" height="555vh" width="10000vw">
+<!-- <img src="https://github.com/JayaByu/JayaByu/blob/main/86514767-12%E6%9C%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9.gif" height="555vh" width="10000vw"> -->
+
+![JayaByu](https://cardivo.vercel.app/api?name=Jayawardhana%20Bayu&description=Cyber%20Security%20Enthusiast,Linux%20Enthusiast,Junior%20Developer&image=https://avatars.githubusercontent.com/u/70298586?s=400&u=4e9e2af28307a849c45789465bb36c6ec69461e9&v=4&backgroundColor=%23393E46&site=)
 
 # Yokoso, Minna-san <img src="https://github.com/JayaByu/JayaByu/blob/main/kawai.gif" width="30px">
 
