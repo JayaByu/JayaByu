@@ -34,15 +34,42 @@
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white">
 </details>
-        
-        
+</div>
+
+<details>
+  <summary>&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</summary>
+  <br/>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBGFMr8UBCAC3itUUYxNVmMVb6ahFqGIgi5qattSEFTzdSFcsmc6a42OquvWF
+dL2NgtOLDQNP8VuQjPL/20AKBq3DhOL5OeFK06EqHhzuLtE89RLsGfL/jPnUca9S
+vbjgHaxoufMMH8+kw1Boq1EY1aPzuRo3HyjTvVQMcTTAFT64X9reeYeAMq1XZagn
+weAP5fqyPlplpI9OwMDC9o5dl2PWjbykbZFVv+LlcivXFZ0Z9xXe8jqaYWu89e1v
+Qsl9wFpAGH9MB55DQNVZFbCSMmBtH689QUUlzZETST30OYrvc5OdiZB0S0bJhIze
+PN1JgrJqiHgFey+FLUqnnGiOgCfl5TZX9lFrABEBAAG0FG5la29jeWJlcjNAZ21h
+aWwuY29tiQEcBBABAgAGBQJhTK/FAAoJEGQl5DNl5EvKMH8IAINGeES6UEPk4hdf
+ogCCfNHRIV10VhGwkC2v1ccExp7lV5u+1Wc3MkgF8oejLW7CrjqanqAKkE0j2WQ8
+ml7OGVgh2sg8TLSRDluvpy9ZbriNcAmoUY7EXaYOWWSNwEsrdW4Ux0Ush6TMzzq/
+l73NVURa3aEMVihwzva3T+9kmb4VqywyquarOaackuCmELt8vNNChOcmq1bFcwvm
+EkYBps9TR62pST8CWeeMl6HleWjVa/eLwVKmOPnLVCL++gBLaF3qIJtGBP4XuZBU
+g47iKIjrfOznrhpffxbKkp8zBgEdTIOrHJAx/25Ihbe5C+nVFynMRfKiIQ39cJSz
+bXBqlaU=
+=OJOl
+   
+-----END PGP PUBLIC KEY BLOCK-----
+```
+</details>
+
+<div align="center">
 <a href="https://github.com/JayaByu">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayaByu&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true"/>
 <a href="https://github.com/JayaByu">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaByu&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)"/>
 </a>        
-        
 </div>
+   
 <!-- [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayawardhanabayu@gmail.com) [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jayawardhana.ekaputra@binus.ac.id) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jybyu._.8/) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayu-kun-35ab75187/) [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGHHHV_0Ln6dsoUHHOp1mQg)
 # -->
 
