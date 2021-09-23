@@ -37,7 +37,7 @@
 </div>
 
 <details>
-  <summary>&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</summary>
+   <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
   <br/>
 
 ```
