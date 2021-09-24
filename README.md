@@ -6,7 +6,7 @@
 <!-- 
 # Touch Me S-E-N-P-A-I !! <img src="https://github.com/JayaByu/JayaByu/blob/main/touchem.gif" wdith="60px" height="60px"> -->
 <div align="center">
-   You Can Touch Me Here Senpai: <br><br>
+   You Can Touch Me Here Senpai : <br><br>
    <a href="mailto:jayawardhanabayu@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
    </a>
@@ -34,7 +34,8 @@
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white">
 </details>
-   <details>
+   
+<details>
    <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
   <br/>
 
