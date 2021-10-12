@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YT">
     </a>
     
-<!-- No whatsapp Byu kun (085606020282) -->
+<!-- Cieee Nyariin no WhatsApp oawkoawko :V -->
    
 ---
      
