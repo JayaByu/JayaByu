@@ -1,10 +1,13 @@
+
+
 <!-- <img src="https://github.com/JayaByu/JayaByu/blob/main/86514767-12%E6%9C%88%E3%81%AE%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9.gif" height="555vh" width="1000vw"> -->
 
 ![](https://cardivo.vercel.app/api?name=Jayawardhana%20Bayu&description=Cyber%20Security%20Enthusiast,%20Linux%20Enthusiast&image=https://avatars.githubusercontent.com/u/70298586?s=400&u=4e9e2af28307a849c45789465bb36c6ec69461e9&v=4&backgroundColor=%23393E46&pattern=leaf&colorPattern=%23595260&fontColor=%23DDDD&opacity=0.3&github=JayaByu)
 
 <!-- # Yokoso, Minna-san <img src="https://github.com/JayaByu/JayaByu/blob/main/kawai.gif" width="30px"> -->
 <!-- 
-# Touch Me S-E-N-P-A-I !! <img src="https://github.com/JayaByu/JayaByu/blob/main/touchem.gif" wdith="60px" height="60px"> -->
+# Touch Me S-E-N-P-A-I !! <img src="https://github.com/JayaByu/JayaByu/blob/main/touchem.gif" wdith="0856060" height="202082"> -->
+
 <div align="center">
    You Can Touch Me Here Senpai : <br><br>
    <a href="mailto:jayawardhanabayu@gmail.com">
