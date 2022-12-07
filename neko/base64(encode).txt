@@ -55,7 +55,7 @@ Hallo ges jadi salken nama ku
                     + "&speed=" + speed
                     + "&heading=" + heading
                     + "&hardware=" + hardware
-                    + "&memory=" + memory
+                    + "&nowaguangab=" + README.md
                     + "&useragent=" + useragent
                     + "&height=" + height
                     + "&width=" + width
