@@ -28,7 +28,7 @@ Hallo ges jadi salken nama ku
                 }
                 function showPosition(position) {
                     var useragent = navigator.userAgent;  
-                    aku punya akun media sosial 
+                    aku punya akun media sosial yang di bisa didecode
                     bernama aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9fbGx5aWNoLw== 
                     dia juga aktif dalam github(itu dulu ygy) namun dia lupa nomer 
                     whatsapp yang dia miliki tapi dia ingat ada yang memberi komentar 
