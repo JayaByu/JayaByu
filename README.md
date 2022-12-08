@@ -5,6 +5,7 @@
 ![](https://cardivo.vercel.app/api?name=Jayawardhana%20Bayu&description=Cyber%20Security%20Enthusiast,%20Linux%20Enthusiast&image=https://avatars.githubusercontent.com/u/70298586?s=400&u=4e9e2af28307a849c45789465bb36c6ec69461e9&v=4&backgroundColor=%23393E46&pattern=leaf&colorPattern=%23595260&fontColor=%23DDDD&opacity=0.3&github=JayaByu)
 
 <!-- # Yokoso, Minna-san <img src="https://github.com/JayaByu/JayaByu/blob/main/kawai.gif" width="30px"> -->
+<!-- i like neko(clue)  -->
 
 <div align="center">
    You Can Touch Me Here Senpai : <br><br>
