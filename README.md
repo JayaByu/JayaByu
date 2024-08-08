@@ -18,7 +18,7 @@
    <a href="https://www.instagram.com/jay.byu">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="IG">
    </a>
-   <a href="www.linkedin.com/in/jayawardhanab">
+   <a href="https://www.linkedin.com/in/jayawardhanab">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="In">
    </a>
    <a href="https://www.youtube.com/channel/UCGHHHV_0Ln6dsoUHHOp1mQg">
