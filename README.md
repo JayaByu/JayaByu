@@ -15,10 +15,10 @@
    <a href="mailto:jayawardhana.ekaputra@binus.ac.id">
       <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
    </a>
-   <a href="https://www.instagram.com/jaybyu._.8/">
+   <a href="https://www.instagram.com/jay.byu">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="IG">
    </a>
-   <a href="https://www.linkedin.com/in/bayu-kun-35ab75187/">
+   <a href="www.linkedin.com/in/jayawardhanab">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="In">
    </a>
    <a href="https://www.youtube.com/channel/UCGHHHV_0Ln6dsoUHHOp1mQg">
